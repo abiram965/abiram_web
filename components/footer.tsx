@@ -49,17 +49,15 @@ export const Footer = () => {
         <p className="text-sm font-light md:text-base md:font-normal">
           Copyright &copy; {new Date().getFullYear()}{" "}
           <Link
-            href="https://sanidhy.me"
+            href="https://abiram.tech"
             target="_blank"
             rel="noreferrer noopener"
             className="text-purple"
           >
-            Sanidhya
+            Abiram Ramasamy
           </Link>{" "}
           |{" "}
-          <Link href={links.sourceCode} className="underline">
-            Source Code
-          </Link>
+        
         </p>
 
         <div className="flex items-center gap-6 md:gap-3">

@@ -1,5 +1,5 @@
 {
-  "name": "next-portfolio",
+  "name": "abiram-next-portfolio",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Abiram Ramasamy",
+    "email": "abiramr2003@gmail.com",
+    "url": "https://github.com/abiram965"
   },
   "description": "Modern & Minimalist Next.js Portfolio.",
   "keywords": [
@@ -53,26 +53,6 @@
     "eslint",
     "html",
     "css"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sanidhyy/next-portfolio.git"
-  },
-  "homepage": "https://github.com/sanidhyy/next-portfolio#readme",
-  "bugs": {
-    "url": "https://github.com/sanidhyy/next-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
-  },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
   ],
   "dependencies": {
     "@react-three/drei": "^9.105.6",

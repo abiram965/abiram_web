@@ -206,21 +206,21 @@ export const socialMedia = [
   {
     name: "GitHub",
     img: "/git.svg",
-    link: "https://github.com/sanidhyy",
+    link: "https://github.com/abiram965",
   },
   {
     name: "Twitter",
     img: "/twit.svg",
-    link: "https://twitter.com/TechnicalShubam",
+    link: "https://twitter.com/abiram_sweet",
   },
   {
     name: "LinkedIn",
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "https://www.linkedin.com/in/abiram-r",
   },
 ] as const;
 
 export const techStack = {
-  stack1: ["React.js", "Next.js", "Typescript"],
-  stack2: ["Vue.js", "AWS", "MongoDB"],
+  stack1: ["MERN", "AIML", "MongoDB"],
+  stack2: ["Python", "AWS", "MongoDB"],
 } as const;
